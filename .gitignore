@@ -1,3 +1,5 @@
 array_archive.npz
 arrays_compressed.npz
 some_arr.npy
+.ipynb_checkpoints
+tmp.txt
